@@ -8,3 +8,6 @@
 
 # Recurrent Neural Network 
 * TV Script Generation (generated Simpsons TV scripts using RNN)
+
+# Generative Adversarial Network
+* Human Face Generation (generated human face using GAN with CelebA dataset)
